@@ -2,7 +2,7 @@
 
 ### An iOS Children's Game
 
-<img src="/images/FSgif.gif" width="170"> <img src="/images/welcome.png" width="170"> <img src="/images/empty.png" width="170"> <img src="/images/girraf3.png" width="170"> <img src="/images/girraf4.png" width="170">
+<img src="/images/Feeling_Safari.gif" width="170"> <img src="/images/welcome.png" width="170"> <img src="/images/empty.png" width="170"> <img src="/images/girraf3.png" width="170"> <img src="/images/girraf4.png" width="170">
 
 ### Overview
 
